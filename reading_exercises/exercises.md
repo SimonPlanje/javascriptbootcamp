@@ -44,6 +44,18 @@ The indentation indicates the depth of the call stack. The first time find is ca
 
 ## chapter 4 interessante stukjes
 
-![](images/interesante_stukjes_chap4.png)
+![stukje tekst uit chapter 4 van recursion boek](/images/interesante_stukjes_chap4.PNG)
+
+### Mutability 
+![stukje tekst uit chapter 4 van recursion boek](/images/mutability.PNG)
+
+### Const en slice
+![stukje tekst uit chapter 4 van recursion boek](/images/const_slice.PNG)
+
+### Nog meer properties
+
+![stukje tekst uit chapter 4 van recursion boek](/images/nog_meer_properties.PNG)
+![stukje tekst uit chapter 4 van recursion boek](/images/nog_meer_properties2.PNG)
+
 
 # Freecode camp
