@@ -44,8 +44,6 @@ The indentation indicates the depth of the call stack. The first time find is ca
 
 ## chapter 4 interessante stukjes
 
-![interesant stuk chapter 4](images/push_array.png)
-
 
 
 # Freecode camp
