@@ -1,4 +1,6 @@
-Chapter 2 recursion LASTIG!
+# recursion Book
+
+ ## Chapter 2 difficult part to read again
 
 Recursion is not always just an inefficient alternative to looping. Some problems really are easier to solve with recursion than with loops. Most often these are problems that require exploring or processing several “branches”, each of which might branch out again into even more branches.
 Consider this puzzle: by starting from the number 1 and repeatedly either adding 5 or multiplying by 3, an infinite set of numbers can be produced. How would you write a function that, given a number, tries to find a sequence of such additions and multiplications that produces that number?
@@ -40,4 +42,8 @@ find(1, "1")
         found!
 The indentation indicates the depth of the call stack. The first time find is called, it starts by calling itself to explore the solution that starts with (1 + 5). That call will further recurse to explore every continued solution that yields a number less than or equal to the target number. Since it doesn’t find one that hits the target, it returns null back to the first call. There the || operator causes the call that explores (1 * 3) to happen. This search has more luck—its first recursive call, through yet another recursive call, hits upon the target number. That innermost call returns a string, and each of the || operators in the intermediate calls passes that string along, ultimately returning the solution.
 
-##Freecode camp##
+## chapter 4 interessante stukjes
+
+![](images/interesante_stukjes_chap4.png)
+
+# Freecode camp
